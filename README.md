@@ -1,17 +1,31 @@
 # library-management-system-
-# 📚 Advanced Library Management System (Python)
+# 📚 Simple Library Management System (Python)
 
-This is a simple but advanced console-based library system using **Object-Oriented Programming** in Python.
+A beginner-friendly library app built using Python's OOP concepts.
+## 🚀 Features
+- Add new books
+- Show all books
+- Borrow a book
+- Return a book
+- Predefined books on start
+## 📖 There are some Predefined Books
 
-## ✅ Features
+- Python Basics by John Doe
+- Learning AI by Jane Smith
+- Machine Learning 101 by Andrew Ng
+- Clean Code by Robert C. Martin
+- Data Science Handbook by Jake VanderPlas
 
-- Admin and User login
-- Add new books (Admin)
-- Borrow and return books
-- View available books
-- View borrowed books per user
+## 🧠 Concepts Used
 
-## 🏗️ Tech Stack
+- Classes and Objects
+- Constructor (`__init__`)
+- String method (`__str__`)
+- List handling and simple logic
 
-- Python 3
-- OOP Concepts: Class, Object, Inheritance, Encapsulation
+---
+
+## ▶️ How to Run
+
+```bash
+python main.py
